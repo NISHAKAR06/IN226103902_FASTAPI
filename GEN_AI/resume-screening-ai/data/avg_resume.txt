@@ -1,0 +1,11 @@
+Name: Rahul Verma
+Email: rahul.verma@example.com
+Phone: +91-91234-56789
+
+Summary: Python developer with internship experience in web applications and small API projects.
+
+Skills: Python, Flask, SQL, REST APIs, HTML, CSS
+Tools: Git, SQLite, Jupyter Notebook
+Experience: Software intern working on internal tools and API integration tasks.
+Education: B.Sc. in Information Technology
+Projects: Created a student portal and a CRUD API project.

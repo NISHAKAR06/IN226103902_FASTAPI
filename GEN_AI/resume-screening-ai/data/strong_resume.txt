@@ -1,0 +1,11 @@
+Name: Aanya Sharma
+Email: aanya.sharma@example.com
+Phone: +91-98765-43210
+
+Summary: Python backend developer with 5+ years of experience building APIs and data-driven applications.
+
+Skills: Python, FastAPI, SQL, REST APIs, Data Analysis, Machine Learning
+Tools: Git, Docker, AWS, PostgreSQL, Pandas, NumPy
+Experience: Backend Engineer at a product startup, building FastAPI services and SQL-based reporting systems.
+Education: B.Tech in Computer Science
+Projects: Built an API-based analytics platform and deployed services on AWS.

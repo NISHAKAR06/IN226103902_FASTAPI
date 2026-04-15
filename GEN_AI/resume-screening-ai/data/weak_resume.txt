@@ -1,0 +1,10 @@
+Name: Neha Iyer
+Email: neha.iyer@example.com
+
+Summary: Entry-level candidate with limited technical exposure.
+
+Skills: Basic Python, MS Office
+Tools: None mentioned
+Experience: Internship in documentation and support tasks.
+Education: Bachelor of Commerce
+Projects: None listed

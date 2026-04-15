@@ -1,0 +1,16 @@
+Job Title: Data Scientist
+
+We are looking for a Data Scientist with strong Python skills, SQL knowledge, machine learning experience, data analysis abilities, and familiarity with cloud-based workflows.
+
+Required skills:
+- Python
+- SQL
+- Machine Learning
+- Data Analysis
+- REST APIs
+
+Preferred tools:
+- Pandas
+- NumPy
+- Git
+- AWS
